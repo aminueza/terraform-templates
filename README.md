@@ -3,7 +3,7 @@
 A set of terraform templates
 
 ## Setup:
- * First, install terraform client;
+ * First, download and install [terraform client](https://www.terraform.io/downloads.html);
  * Access desired resource:
  ```
  $ cd REPO
