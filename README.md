@@ -107,5 +107,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [Hashicorp](https://www.hashicorp.com)
-* [Best Readme](tps://github.com/othneildrew/Best-README-Template)
+* [Best Readme](https://github.com/othneildrew/Best-README-Template)
 * [AWS](http://aws.amazon.com)
