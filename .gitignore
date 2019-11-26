@@ -8,3 +8,5 @@
 # .tfvars files
 *.tfvars
 
+# .DS_Store file
+.DS_Store 
