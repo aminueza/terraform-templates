@@ -12,3 +12,8 @@ variable "ec2_tag" {
   description = "AWS tag of ec2 machines"
   default     = "aminueza_free"
 }
+
+variable "aws_bucket_name" {
+  description = "AWS S3 bucket name"
+  default     = "aws_terraform_s3"
+}
