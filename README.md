@@ -76,7 +76,6 @@ terraform apply
 
 See the [open issues](https://github.com/aminueza/terraform-templates/issues) for a list of proposed features (and known issues).
 
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
@@ -92,8 +91,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
 
 <!-- CONTACT -->
 ## Contact
