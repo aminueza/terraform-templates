@@ -9,10 +9,11 @@ resource "aws_iam_user_group_membership" "aws_user_groups" {
     user = "${aws_iam_user.aws_user.name}"
 
     groups = [
-        "Default","Engineers"
+        "Admin","Developers"
     ]
 }
 
+# If you want to give extras permission to user, otherwide group permissions is enough
 resource "aws_iam_user_policy" "aws_user_policy" {
     name = "s3_access"
     user = "${aws_iam_user.aws_user.name}"
