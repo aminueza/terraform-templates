@@ -87,22 +87,3 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/TerraformFeature`)
 5. Open a [Pull Request](https://github.com/aminueza/terraform-templates/pulls)
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
-## Contact
-
-**Amanda Souza** ([amandasouza.app](https://amandasouza.app))
-
-**Email:** [amanda@amandasouza.app](amanda@amandasouza.app)
-
-**Project Link:** [https://github.com/aminueza/terraform-templates](https://github.com/aminueza/terraform-templates)
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-* [Hashicorp](https://www.hashicorp.com)
-* [Best Readme](https://github.com/othneildrew/Best-README-Template)
-* [AWS](http://aws.amazon.com)
